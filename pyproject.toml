@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "marl"
+version = "0.1.0"
+description = "Repository for code for the course ECS427 at IISER Bhopal (Fall 2024-25)"
+authors = ["Sattwik Sahu <sattwik21@iiserb.ac.in>"]
+readme = "README.md"
+packages = [{include = "marl", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
