@@ -39,3 +39,10 @@ poetry install                          # Install all project dependencies
 > python3 -m poetry install
 > ```
 > to run poetry as a module.
+
+# Evaluation
+
+## Assignments
+
+- To evaluate assignments, please navigate to the `assignments` directory.
+- To evaluate assignment #1, open the notebook inside `assignments` named `assignment-01.ipynb`
